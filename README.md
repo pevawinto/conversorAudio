@@ -17,10 +17,10 @@ Este programa já inclui o **FFmpeg**, então não é necessário baixá-lo sepa
 
 ## Melhorias Futuras
 Esta é uma versão inicial e melhorias serão implementadas, incluindo:
-- Suporte para mais formatos
+- Suporte para mais formatos de áudio
 - Opção de ajustar bitrate e qualidade
 - Suporte para arrastar e soltar arquivos
-- Tradução para múltiplos idiomas
+- Suporte com API's onlines
 
 ## Como Usar
 1. **Baixe o executável (tá na pasta 'dist')** ou **rode o código em Python**.
@@ -36,6 +36,6 @@ pip install -r requirements.txt
 ```
 Depois, execute:
 ```
-python conversor.py
+python conversor2.py
 ```
 
