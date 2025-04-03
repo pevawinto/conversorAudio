@@ -1,0 +1,17 @@
+# Diretórios gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
